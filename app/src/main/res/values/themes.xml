@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ManuDemo" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+         <item name="colorPrimary">#3339FF</item>
+        <item name="android:statusBarColor">#C133FF</item>
+    </style>
+
+    <style name="Theme.ManuDemo" parent="Base.Theme.ManuDemo" />
+</resources>
